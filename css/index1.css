@@ -1,0 +1,141 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-17 08:19:49
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-04-13 20:19:38
+*/
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.phone{
+	float: left;
+	position: relative;
+	width: 375px;
+	height: 667px;
+	background:linear-gradient(top,#fde2d9,#ce958a);
+	background:-webkit-linear-gradient(top,#fde2d9,#ce958a);
+	background:-moz-linear-gradient(top,#fde2d9,#ce958a);
+	background:-ms-linear-gradient(top,#fde2d9,#ce958a);
+	background:-o-linear-gradient(top,#fde2d9,#ce958a);
+	border-radius: 20px;
+	box-shadow: 0 0 5px 3px #965b53 inset;
+	
+}
+.top1{
+	width: 371px;
+	height: 47px;
+	border-radius: 20px 20px 0px 0px;
+	position: absolute;
+	top: 2px;
+	left: 2px;
+	border-bottom: 1px solid #e6c7c4;
+}
+.top1 .box1{
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	position: absolute;
+	top: 4px;
+	left: 32px;
+	background: #191919;
+}
+.top1 .box1 .box1_1{
+	width: 22px;
+	height: 22px;
+	position: absolute;
+	top: 9px;
+	left: 9px;
+	border-radius: 50%;
+	background: #414342;
+}
+.top1 .box1 .box1_1 .box1_1_1{
+	width: 10px;
+	height: 10px;
+	position: absolute;
+	top: 6px;
+	left: 6px;
+	border-radius: 50%;
+	
+	background:-webkit-linear-gradient(top,#303646,#418fc0);
+}
+.top1 .box2{
+	width: 5px;
+	height: 5px;
+	border-radius: 50%;
+	position: absolute;
+	top: 24px;
+	left: 88px;
+	background: #000;
+}
+.top1 .box3{
+	width: 22px;
+	height: 22px;
+	border-radius: 50%;
+	position: absolute;
+	top: 15px;
+	left: 106px;
+	background: #e3e3c1;
+}
+.top1 .box3 .box3_1{
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	position: absolute;
+	top: 6px;
+	left: 6px;
+	background: #faf4a8;
+}
+.bottom1{
+	width: 371px;
+	height: 47px;
+	border-radius: 0px 0px 20px 20px;
+	position: absolute;
+	bottom: 2px;
+	left: 2px;
+	border-top: 1px solid #c1897c;
+}
+.phone .oppo{
+	width: 169px;
+	height: 44px;
+	position: absolute;
+	top: 225px;
+	left: 104px;
+	background: url(../img/4.png)no-repeat;
+	
+}
+.close1{
+	position: absolute;
+	/* display: block; */
+	width: 4px;
+	height: 45px;
+	background:-webkit-linear-gradient(left,#AB9E8B,#E3DFD4);
+	border-radius: 40px;
+	
+	top: 232px;
+	left:375px;
+}
+.jia1{
+	position: absolute;
+	/* display: block; */
+	width: 4px;
+	height: 45px;
+	background:-webkit-linear-gradient(left,#AB9E8B,#E3DFD4);
+	border-radius: 40px;
+	
+	top: 200px;
+	left:-4px;
+}
+.jian1{
+	position: absolute;
+	/* display: block; */
+	width: 4px;
+	height: 45px;
+	background:-webkit-linear-gradient(left,#AB9E8B,#E3DFD4);
+	border-radius: 40px;
+	
+	top: 249px;
+	left:-4px;
+}
+169
+44

@@ -1,0 +1,127 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-09 15:00:39
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-04-13 20:19:16
+*/
+.big{
+	width: 800px;
+	margin: 0 auto;
+}
+.phone_1{
+	margin-right: 10px;
+	float: left;
+	position: relative;
+	width: 375px;
+	height: 667px;
+	background:linear-gradient(top,#eaebed,#ececec);
+	background:-webkit-linear-gradient(top,#eaebed,#ececec);
+	background:-moz-linear-gradient(top,#eaebed,#ececec);
+	background:-ms-linear-gradient(top,#eaebed,#ececec);
+	background:-o-linear-gradient(top,#eaebed,#ececec);
+	border-radius: 20px;
+	box-shadow: 0 0 5px 2px #ccc inset;
+	border: 3px solid #E3DFD4;
+}
+.top{
+	/* position: absolute; */
+	width: 375px;
+	height: 71px;
+	background:#eaebed;
+	/* top: 0px; */
+	border-radius: 20px 20px 0px 0px;
+	overflow: hidden;
+}
+
+.bottom{
+	/* position: absolute; */
+	width: 375px;
+	height: 66px;
+	background:#eaebed;
+	/* bottom: 0px; */
+	border-radius: 0px 0px 20px 20px;
+	margin-top:4px;
+	overflow: hidden;
+}
+.btn{
+	width: 52px;
+	height:26px ;
+	background:#fff;
+	margin: 17px auto;
+	border: 1px solid #b7aa00;
+	border-radius: 30px;
+}
+.main{
+	width: 354px;
+	height: 524px;
+	background: #fff;
+	margin:1px auto;
+
+}
+.box{
+	width: 145px;
+	height: 20px;
+	
+	margin-left: 110px;
+	margin-top: 17px;
+}
+.btn_1{
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background: #000;
+	float: left;
+}
+.btn_2{
+	width: 70px;
+	height: 7px;
+	background: #000;
+	border-radius: 30px;
+	float: left;
+	margin-left: 27px;
+	margin-top: 5px;
+	
+}
+.btn_3{
+	width: 15px;
+	height: 8px;
+	background: #000;
+	border-radius: 30px;
+	margin-left: 10px;
+	margin-top: 5px;
+	float: left;
+}
+.close{
+	position: absolute;
+	/* display: block; */
+	width: 4px;
+	height: 45px;
+	background:-webkit-linear-gradient(left,#AB9E8B,#E3DFD4);
+	border-radius: 40px;
+	
+	top: 232px;
+	left:377px;
+}
+.jia{
+	position: absolute;
+	/* display: block; */
+	width: 4px;
+	height: 45px;
+	background:-webkit-linear-gradient(left,#AB9E8B,#E3DFD4);
+	border-radius: 40px;
+	
+	top: 200px;
+	left:-4px;
+}
+.jian{
+	position: absolute;
+	/* display: block; */
+	width: 4px;
+	height: 45px;
+	background:-webkit-linear-gradient(left,#AB9E8B,#E3DFD4);
+	border-radius: 40px;
+	
+	top: 249px;
+	left:-4px;
+}
+
